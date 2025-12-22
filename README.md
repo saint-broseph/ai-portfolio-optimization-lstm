@@ -15,6 +15,9 @@ This research presents a comparative analysis between a Deep Learning-based port
 ## 📈 Performance Visualization
 ![Final Performance Comparison](images/final_comparison.png)
 
+## 📉 Underwater Plot
+![Underwater Drawdown Plot](images/underwater_plot.png)
+
 ## 📊 Performance Comparison
 
 ### 1. Overall Results (Bull Market / Long-Term)
