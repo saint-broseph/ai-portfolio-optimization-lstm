@@ -1,4 +1,4 @@
-# 📈 Adaptive Portfolio Optimization: LSTM vs. Markowitz MVO
+# 📈 Adaptive Portfolio Optimization: Deep Learning (LSTM) vs. Modern Portfolio Theory (Markowitz MVO)
 **An Empirical Comparison of Deep Learning and Mean-Variance Optimization in Volatile Asset Classes.**
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
